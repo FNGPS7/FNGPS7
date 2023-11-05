@@ -30,6 +30,16 @@
 
  <img width="432" alt="image" src="https://github.com/FNGPS7/FNGPS7/assets/143075869/062faf2a-466e-4bb8-b41b-c6e796a5c5ca">
 
+UPDATE 6/11/2566
+
+- I am just over complicate my program at this poit it can be this easy
+<img width="400" alt="image" src="https://github.com/FNGPS7/FNGPS7/assets/143075869/1eef4400-8a2d-462b-b12c-24f67f574a21">
+- But i have been doing this for ages
+<img width="640" alt="image" src="https://github.com/FNGPS7/FNGPS7/assets/143075869/a48ae3a1-91d7-4feb-a502-e020343e247d">
+
+
+
+
 <!---
 FNGPS7/FNGPS7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
